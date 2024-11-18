@@ -15,7 +15,7 @@ I specialize in building impactful solutions that bridge the gap between cutting
 
 ## 📫 **Connect With Me**  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/anamta-rehman](https://www.linkedin.com/in/anamtarehman/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anamtarehman/)
 - 📧 [Email Me](mailto:ana.codes98@gmail.com)  
 - 🌟 [Portfolio](https://anamtarehman.vercel.app/)  
 
