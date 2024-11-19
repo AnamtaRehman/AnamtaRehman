@@ -1,8 +1,8 @@
 
 
-# 👩‍💻 Hi there! I'm Anamta  
+# Hi there! I'm Anamta  
 
-I specialize in building impactful solutions that bridge the gap between cutting-edge technology and practical needs.
+Building impactful solutions that bridge the gap between cutting-edge technology and practical needs.
 
 ## **Connect:**  
 
