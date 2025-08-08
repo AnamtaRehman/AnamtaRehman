@@ -2,7 +2,7 @@
 
 # Hi there! I'm Anamta  
 
-Building impactful solutions that bridge the gap between cutting-edge technology and practical needs.
+I like building impactful solutions.
 
 ## **Connect:**  
 
